@@ -1,0 +1,14 @@
+C:\Users\User\TrueCoders\repos\FizzBuzzChallenge\obj\Debug\netcoreapp3.1\FizzBuzzChallenge.csproj.AssemblyReference.cache
+C:\Users\User\TrueCoders\repos\FizzBuzzChallenge\obj\Debug\netcoreapp3.1\FizzBuzzChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\TrueCoders\repos\FizzBuzzChallenge\obj\Debug\netcoreapp3.1\FizzBuzzChallenge.AssemblyInfoInputs.cache
+C:\Users\User\TrueCoders\repos\FizzBuzzChallenge\obj\Debug\netcoreapp3.1\FizzBuzzChallenge.AssemblyInfo.cs
+C:\Users\User\TrueCoders\repos\FizzBuzzChallenge\obj\Debug\netcoreapp3.1\FizzBuzzChallenge.csproj.CoreCompileInputs.cache
+C:\Users\User\TrueCoders\repos\FizzBuzzChallenge\bin\Debug\netcoreapp3.1\FizzBuzzChallenge.exe
+C:\Users\User\TrueCoders\repos\FizzBuzzChallenge\bin\Debug\netcoreapp3.1\FizzBuzzChallenge.deps.json
+C:\Users\User\TrueCoders\repos\FizzBuzzChallenge\bin\Debug\netcoreapp3.1\FizzBuzzChallenge.runtimeconfig.json
+C:\Users\User\TrueCoders\repos\FizzBuzzChallenge\bin\Debug\netcoreapp3.1\FizzBuzzChallenge.runtimeconfig.dev.json
+C:\Users\User\TrueCoders\repos\FizzBuzzChallenge\bin\Debug\netcoreapp3.1\FizzBuzzChallenge.dll
+C:\Users\User\TrueCoders\repos\FizzBuzzChallenge\bin\Debug\netcoreapp3.1\FizzBuzzChallenge.pdb
+C:\Users\User\TrueCoders\repos\FizzBuzzChallenge\obj\Debug\netcoreapp3.1\FizzBuzzChallenge.dll
+C:\Users\User\TrueCoders\repos\FizzBuzzChallenge\obj\Debug\netcoreapp3.1\FizzBuzzChallenge.pdb
+C:\Users\User\TrueCoders\repos\FizzBuzzChallenge\obj\Debug\netcoreapp3.1\FizzBuzzChallenge.genruntimeconfig.cache
